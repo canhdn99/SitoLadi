@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sitokata-chinhhang.com	TRUE	/sito-bt-tn	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.sitokata-chinhhang.com	TRUE	/sito-bt-tn	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.sitokata-chinhhang.com	TRUE	/sito-bt-tn	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.sitokata-chinhhang.com	TRUE	/sito-bt-tn	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.sitokata-chinhhang.com	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	2ccae015-6c8d-474c-4ebd-e564605d1398
+
